@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Johnny Duncan,
+ 
+ I am a West Texas A&M student.
